@@ -1,7 +1,7 @@
 # Hey, I’m Ritesh 👋  
 **IT Support by day ☀️ | Data Analyst by night 🌙**
 
-I keep systems humming during business hours and dive into data after dark—turning tech hiccups into smooth user experiences and raw tables into clear insights.
+I keep systems humming during business hours and dive into data after dark turning tech hiccups into smooth user experiences and raw tables into clear insights.
 
 
 
@@ -15,12 +15,5 @@ I keep systems humming during business hours and dive into data after dark—tur
 - **SQL (T-SQL / MySQL)** – transform messy schemas into tidy views  
 - **Tableau & Excel** – dashboards that answer the “so-what?” question  
 - **Python** – quick ETL jobs and web scraping when data won’t hand itself over  
-
-
-
-## 💡 How I Work
-- **First-contact fixes** and **plain-English explanations** (no jargon storms)  
-- Ticket notes and data docs that future-me—and teammates—can actually follow  
-- Prefer **root-cause solutions** and **actionable insights** over flashy band-aids  
 
 
