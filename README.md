@@ -8,6 +8,6 @@ ESG Data Analyst at [Collins Foods Limited](https://www.collinsfoodslimited.com.
 - **Learning:** Python, data automation
 
 ### What I do
-I consolidate, clean and analyse ESG data — energy, emissions, waste, people metrics — to support sustainability reporting and decision-making.
+I consolidate, clean and analyse ESG data - energy, emissions, waste, people metrics - to support sustainability reporting and decision-making.
 
 📍 Brisbane, Australia
