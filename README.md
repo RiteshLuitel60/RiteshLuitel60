@@ -1,6 +1,6 @@
 ## Hey, I'm Ritesh 👋
 
-ESG Data Analyst at [Collins Foods Limited](https://www.collinsfoodslimited.com.au/) — working with sustainability data across 300+ KFC and Taco Bell restaurants in Australia and Europe.
+ESG Data Analyst at [Collins Foods Limited](https://www.collinsfoodslimited.com.au/) - working with sustainability data across 300+ KFC and Taco Bell restaurants in Australia and Europe.
 
 ### What I work with
 - **Day to day:** Excel, Workiva, Power BI, SQL
